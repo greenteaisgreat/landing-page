@@ -13,6 +13,8 @@ body {
 }
 
 ul {
+    display: flex;
+    gap: 25px;
     list-style-type: none;
     padding: 0;
     margin: 0;
