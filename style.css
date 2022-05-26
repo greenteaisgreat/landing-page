@@ -21,6 +21,12 @@ margin: 0;
     font-weight: 700;
 }
 
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 ul {
     display: flex;
     gap: 25px;
