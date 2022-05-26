@@ -1,3 +1,22 @@
 * {
     border: solid red 1px;
 }
+
+body {
+    
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+
+}
