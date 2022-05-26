@@ -4,6 +4,7 @@
 
 body {
 font-family: "Tahoma", sans-serif;
+margin: 0;
 }
 
 .header {
@@ -11,6 +12,7 @@ font-family: "Tahoma", sans-serif;
     justify-content: space-around;
     align-items: center;
     background-color: #1F2937;
+    padding: 20px;
 }
 
 .logo {
