@@ -12,6 +12,12 @@ font-family: "Tahoma", sans-serif;
     align-items: center;
 }
 
+.logo {
+    color: #F9FAF8;
+    font-size: 28px;
+    font-weight: 700;
+}
+
 ul {
     display: flex;
     gap: 25px;
